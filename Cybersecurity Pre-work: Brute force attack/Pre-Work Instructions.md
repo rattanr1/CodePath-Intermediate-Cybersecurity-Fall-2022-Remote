@@ -56,7 +56,7 @@ Burp positions itself between the user and the server.  Normally, it just observ
 
 Burp Intruder allows you to make the same request over and over again, except you can specify a part of the request to change. This makes it perfect for attempting to login as many different users with thousands of passwords, known as a brute force attack.
 
-1. In Burp Intruder, go to the **"Positions"** tab. Make sure that the attack type [**"Sniper"**](https://portswigger.net/burp/documentation/desktop/tools/intruder/positions) is selected.
+1. In Burp Intruder, go to the **"Positions"** tab. Make sure that the attack type [**"Sniper"**] is selected.
    
 2. Click **"Clear"** to remove any automatically assigned payload positions. In the username parameter, highlight the value and click **"Add"** to add a payload position to this parameter. This position will be indicated by two § symbols, for example: **`username=§random_username§`** 
 <img src='https://i.imgur.com/CZyjonI.png' title='uIntruder' width='' alt='uIntruder' />
