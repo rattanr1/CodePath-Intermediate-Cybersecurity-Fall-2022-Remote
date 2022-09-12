@@ -43,7 +43,9 @@
 
 <br/>
 
-^^^ Why do we have to disable "Intercept"?
+
+Why do we have to disable "Intercept"?
+
 Burp positions itself between the user and the server.  Normally, it just observes -- it doesn't actually stop the traffic from flowing.  When **"Intercept"** is on, it actually prevents the traffic from reaching its destination.  Useful for some hacks, but not for us today!
 
 ^^^
