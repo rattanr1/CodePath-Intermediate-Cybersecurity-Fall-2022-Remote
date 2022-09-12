@@ -3,7 +3,7 @@
 ## 2. Setup
 
 1. [Install Burp] - Burp is used by cybersecurity professionals everywhere to view network traffic and test for security vulnerabilities.
-2. [Create a Portswigger account]- Portswigger is the maker of Burp and has an [Academy](https://portswigger.net/web-security) to hone your cybersecurity skills.
+2. [Create a Portswigger account] - Portswigger is the maker of Burp and has an [Academy](https://portswigger.net/web-security) to hone your cybersecurity skills.
 
 :::info
 
