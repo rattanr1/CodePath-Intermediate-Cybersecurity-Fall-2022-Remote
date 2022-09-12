@@ -1,12 +1,6 @@
-                     #########      Cybersecurity-Pre-work-Brute-Force-Attacks     #########     
+                     #########      CodePath's Intermediate Cybersecurity Course (Fall 2022-Remote)     #########     
 
-The Mission:
-
-The owner of a blog has contracted your security firm to test their website for vulnerabilities.
-Your mission is to hack into their blog. You suspect that you can find a user whose password is too simple. First, you need to find a registered user, 
-and then you're going to attempt dozens of different common passwords.
-
-This would be a tedious process, but luckily, you have Burp, and its trusty Intruder tool that's built for this very purpose.
+Learn the fundamentals of cybersecurity, common application vulnerabilities and attacks, and hands-on practice to explore both offensive and defensive strategies in information security.
 
 ###########################################################
 
