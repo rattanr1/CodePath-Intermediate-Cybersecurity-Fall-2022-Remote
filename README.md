@@ -8,7 +8,7 @@ With a focus on web applications security, I will learn to think like a hacker a
 There will be foundational knowledge of cybersecurity concepts while also applying these concepts with fun simulations replicating real-world cyber threats such has Capture The Flag (CTF), Security Shepherd, and much more.
 
 
-<ins>Additional things I learned</ins>
+  <ins>Additional things I learned</ins>
 
 How Hackers Exploit Vulnerabilities:                                                          
 - URL manipulation
