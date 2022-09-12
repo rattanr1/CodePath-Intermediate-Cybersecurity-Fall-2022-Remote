@@ -17,7 +17,7 @@
 
 ### Step 1: Find the login url
 
-1. Login to your [Portswigger account](https://portswigger.net/users)
+1. Login to your [Portswigger account]
 <img src='https://imgur.com/NCuG3CI.png' title='Portswigger login page screenshot' width='' alt='Portswigger login page screenshot' />
 
 2. Fire up Burp, and in your Burp-configured browser:
