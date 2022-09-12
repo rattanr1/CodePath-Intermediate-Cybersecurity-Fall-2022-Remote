@@ -37,14 +37,13 @@
 <img src='https://i.imgur.com/oh8aeTT.png' title='Burp HTTP Requests screenshot' width='' alt='Burp HTTP Requests screenshot' />
 
 
-:::info
+
 
 💡 Not seeing any requests? Check the intercept. **"Proxy"** -> **"Intercept"** and click the intercept button to say **"Intercept is off"**
 
 <br/>
 
-^^^ Why do we have to disable "Intercept"? (Click here for answer) ^^^
-
+^^^ Why do we have to disable "Intercept"?
 Burp positions itself between the user and the server.  Normally, it just observes -- it doesn't actually stop the traffic from flowing.  When **"Intercept"** is on, it actually prevents the traffic from reaching its destination.  Useful for some hacks, but not for us today!
 
 ^^^
