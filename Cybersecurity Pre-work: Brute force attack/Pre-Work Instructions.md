@@ -103,19 +103,19 @@ Now that you have a registered user, you want to attempt to login as that user w
 
 - Make sure you are only sending one request to the site. Sending multiple request will result in different sessions casuing a timeout error.
 - In general the sesssion will expire ever 15 minutes. You may need to redo the challenge if you exceed the time.
-- CSRF error? The CSRF token in the request is no longer valid as it was already used to succesfully login. Use a [fresh login page](https://acae1f321e738e3a805597a6006d0077.web-security-academy.net/login) to avoid an error.
+- CSRF error? The CSRF token in the request is no longer valid as it was already used to succesfully login. Use a [fresh login page]
 
 :::
 
 ## 3. Submission
 
-1. Go to the [Hall of Fame](https://portswigger.net/web-security/hall-of-fame), scroll to the bottom, and take a screenshot of your entry. The bottom of the screenshot must include your username and indicate the completion of the lab with **"1 of ###".**
+1. Go to the [Hall of Fame], scroll to the bottom, and take a screenshot of your entry. The bottom of the screenshot must include your username and indicate the completion of the lab with **"1 of ###".**
 <img src='https://i.imgur.com/ZvhdrY6.png' title='Hall of Fame' width='' alt='Hall of Fame' />
 
-2. Go to GitHub and create a [new repository](https://github.com/new) to store your work for the class.
+2. Go to GitHub and create a [new repository]to store your work for the class.
 3. Add your screenshot to your repository by clicking **"upload an existing file".**
 <img src='https://i.imgur.com/w1BoOR3.png' title='github' width='' alt='github' />
 
-4. Go to the [CodePath application status dashboard](https://apply.codepath.org/dashboard/) and then press the "SUBMIT" button in the pre-work section:
+4. Go to the [CodePath application status dashboard] and then press the "SUBMIT" button in the pre-work section:
   [<img src='https://i.imgur.com/GQa79TZ.png' title='Prework Submit' width='' alt='Prework Submit' />](https://apply.codepath.org/dashboard)
 5. In the pre-work submission form, link to your GitHub repo.
