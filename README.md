@@ -5,7 +5,7 @@ After successfully completing the Pre-Work, I got admitted into this program whe
 
 With a focus on web applications security, I will learn to think like a hacker and exploit vulnerabilities, while also exploring how to build offensive capabilities into applications. 
 
-There will be foundational knowledge of cybersecurity concepts while also applying these concepts with fun simulations replicating real-world cyber threats such has Capture The Flag (CTF), Security Shepherd, and much more. Additional things I learned:
+There will be foundational knowledge of cybersecurity concepts while also applying these concepts with fun simulations replicating real-world cyber threats such as Capture The Flag (CTF), Security Shepherd, and much more. Additional things I learned:
 
  <ins>How Hackers Exploit Vulnerabilities:</ins>                                                          
 - URL manipulation
